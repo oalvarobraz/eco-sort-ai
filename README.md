@@ -223,7 +223,7 @@ Implementar um modelo de segmentação (ex: **U-Net** ou **Mask R-CNN**) para:
 
 ```bash
 git clone https://github.com/oalvarobraz/eco-sort-ai.git
-cd waste-classifier-pytorch
+cd eco-sort-ai
 ```
 
 ### 2️⃣ Baixe o dataset
