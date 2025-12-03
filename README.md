@@ -228,7 +228,7 @@ cd eco-sort-ai
 
 ### 2️⃣ Baixe o dataset
 
-Acesse o [TrashNet Dataset](https://www.kaggle.com/datasets/feyzazkefe/trashnet/code) e extraia em `data/TrashNet/`
+Acesse o [TrashNet Dataset](https://www.kaggle.com/datasets/feyzazkefe/trashnet/code) e extraia `TrashNet/`
 
 ### 3️⃣ Instale as dependências
 
