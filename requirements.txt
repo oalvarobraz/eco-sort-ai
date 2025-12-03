@@ -6,3 +6,7 @@ matplotlib
 seaborn
 tqdm
 Pillow
+fastapi
+uvicorn
+python-multipart
+streamlit
